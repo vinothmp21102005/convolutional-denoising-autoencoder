@@ -8,8 +8,7 @@ To develop a convolutional autoencoder for image denoising application.
 Using autoencoder, we are trying to remove the noise added in the encoder part and tent to get the output which should be same as the input with minimal loss. The dataset which is used is mnist dataset.
 ## Convolution Autoencoder Network Model
 
-![Screenshot 2024-05-07 111838](https://github.com/vinothmp21102005/convolutional-denoising-autoencoder/assets/145972215/f88d083a-2a15-4cf4-87a9-e48a97cf9431)
-
+![alt text](<WhatsApp Image 2024-05-07 at 11.23.46_c3ea327a.jpg>)
 
 ## DESIGN STEPS
 
